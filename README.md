@@ -35,9 +35,7 @@
 class NishantBhaleem:
     def __init__(self):
         self.role        = "Backend & AI Engineer"
-        self.education   = "B.Sc Computer Science @ BITS Pilani (2024–2027)"
         self.location    = "Bengaluru, India 🇮🇳"
-        self.cgpa        = 8.32
         self.focus       = ["RAG Systems", "Microservices", "Distributed Backends"]
         self.philosophy  = "Strict prompts, low temperature, zero hallucinations."
 
