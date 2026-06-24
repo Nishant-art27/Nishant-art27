@@ -144,25 +144,6 @@ A modular **service-repository** backend built to scale core domain logic, with 
 
 <!-- ───────────────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant-art27&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C6FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-art27&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C6FF&currStreakLabel=8E2DE2"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-art27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=ffffff&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nishant-art27&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
-
-<!-- ───────────────────────────────────────────────────────────────────── -->
-
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Contribution Graph
 
 <div align="center">
