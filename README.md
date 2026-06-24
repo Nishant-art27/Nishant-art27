@@ -148,7 +148,7 @@ A modular **service-repository** backend built to scale core domain logic, with 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant-art27&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C6FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant-art27&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C6FF&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-art27&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C6FF&currStreakLabel=8E2DE2"/>
 
 <br/>
