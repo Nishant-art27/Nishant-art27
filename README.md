@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/nishant-bhaleem-635619300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mnishant2173@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Nishant-art27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://x.com/Nishant032_"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <img src="https://img.shields.io/badge/Bengaluru,%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
 <br/>
