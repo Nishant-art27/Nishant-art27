@@ -102,62 +102,6 @@ class NishantBhaleem:
 
 <!-- ───────────────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 NotebookLM RAG
-**Chat With Your Documents**
-
-A full-stack **Retrieval-Augmented Generation** assistant with isolated modules for ingestion, vector orchestration & LLM inference.
-
-- 📄 Async ingestion → 1000-char semantic chunks (20% overlap)
-- 🔢 768-dim vectors via Gemini `text-embedding-004`
-- 🗃️ Indexed into **Qdrant Cloud** clusters
-- 🚫 **Zero hallucinations** — strict prompts + `temp=0.3` on Llama 3.3 70B
-- 🔒 Tenant-isolated DB access via client-side sessions
-
-`Node.js` `Express` `LangChain` `Groq` `Qdrant`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎭 PersonaChat
-**Persona-Based AI Chatbot**
-
-A glassmorphic chatbot that simulates realistic **industry-expert personalities** without character drift.
-
-- 🪞 Identity-first directives + few-shot examples
-- 🧩 Hidden Chain-of-Thought reasoning for domain tone
-- 🔐 API keys secured server-side via Vercel Serverless
-- ♻️ Multi-model fallback orchestration for **100% uptime**
-
-`Vite` `Vercel` `Gemini 2.5` `Glassmorphism`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🚗 RideShares — UBER Clone Backend
-**High-Performance Ride-Sharing Engine**
-
-A modular **service-repository** backend built to scale core domain logic, with stateless security baked in.
-
-- ⚡ Stateless **JWT** auth filter via Spring Security for secure bearer-token validation
-- 🧱 Modular service-repository architecture for scalable domain logic
-- 🗺️ Spring Data JPA + Hibernate ORM abstracting complex persistence layers
-
-`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `Maven`
-
-</td>
-</tr>
-</table>
-
-<!-- ───────────────────────────────────────────────────────────────────── -->
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Dev Quote
 
 <div align="center">
