@@ -50,6 +50,8 @@ class NishantBhaleem:
 
 <div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant-art27&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=00C6FF&point=ffffff&hide_border=true&area=true"/>
+
 <!-- SNAKE ANIMATION (requires a snake.yml GitHub Action to generate the .svg) -->
 <img src="https://raw.githubusercontent.com/Nishant-art27/Nishant-art27/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
