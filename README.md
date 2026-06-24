@@ -45,6 +45,17 @@ class NishantBhaleem:
 
 <!-- ───────────────────────────────────────────────────────────────────── -->
 
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Contribution Graph
+
+<div align="center">
+
+<!-- SNAKE ANIMATION (requires a snake.yml GitHub Action to generate the .svg) -->
+<img src="https://raw.githubusercontent.com/Nishant-art27/Nishant-art27/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+<!-- ───────────────────────────────────────────────────────────────────── -->
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Tech Arsenal
 
 <div align="center">
@@ -141,17 +152,6 @@ A modular **service-repository** backend built to scale core domain logic, with 
 </td>
 </tr>
 </table>
-
-<!-- ───────────────────────────────────────────────────────────────────── -->
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Contribution Graph
-
-<div align="center">
-
-<!-- SNAKE ANIMATION (requires a snake.yml GitHub Action to generate the .svg) -->
-<img src="https://raw.githubusercontent.com/Nishant-art27/Nishant-art27/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
 
 <!-- ───────────────────────────────────────────────────────────────────── -->
 
