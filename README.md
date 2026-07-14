@@ -33,7 +33,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`whoami`
 
 ```python
-class NishantBhaleem:
+class Nishant:
     def __init__(self):
         self.role        = "Backend & AI Engineer"
         self.location    = "Bengaluru, India 🇮🇳"
