@@ -3,7 +3,7 @@
 <!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/Nishant-art27">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C6FF&height=240&section=header&text=Nishant%20Bhaleem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FRAG%20Systems%20%E2%80%A2%20Distributed%20Architecture&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C6FF&height=240&section=header&text=Nishant&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FRAG%20Systems%20%E2%80%A2%20Distributed%20Architecture&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <div align="center">
